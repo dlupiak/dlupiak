@@ -2,8 +2,6 @@
 
 **Senior Software Engineer** | 10 years building full-stack products
 
-I specialize in .NET, cloud architecture, and AI-powered solutions. Currently on an innovation & prototyping team — building proof-of-concepts with cutting-edge tech, from multi-agent systems to GenAI integrations.
-
 ---
 
 ### Tech Stack
@@ -26,12 +24,8 @@ I specialize in .NET, cloud architecture, and AI-powered solutions. Currently on
 ### GitHub Stats
 
 <p align="center">
-  <a href="https://git.io/awesome-stats-card">
-    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/dlupiak?cardType=github&theme=github-dark&preferLogin=true" alt="GitHub Stats" height="180" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlupiak&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="180" />
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=github-dark&fontFamily=Cascadia%20Code&preferLogin=false">
+    <img alt="dlupiak's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/dlupiak?cardType=level-alternate&theme=github-dark&fontFamily=Cascadia%20Code&preferLogin=false" />
   </a>
 </p>
 
